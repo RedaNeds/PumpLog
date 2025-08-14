@@ -1,0 +1,30 @@
+[
+  {
+    "id": "00000000-0000-0000-0000-000000000001",
+    "name": "Bench Press (barre)",
+    "aliases": ["Développé couché"],
+    "musclesPrimary": ["Pectoraux"],
+    "musclesSecondary": ["Triceps", "Épaules antérieures"],
+    "region": "Haut du corps",
+    "equipment": ["Barbell", "Bench"],
+    "type": "strength",
+    "stability": "free",
+    "imageName": "bench_bar.png",
+    "notes": "Scapula serrée, pieds ancrés.",
+    "isCustom": false
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000002",
+    "name": "Squat (barre)",
+    "aliases": ["Back Squat"],
+    "musclesPrimary": ["Quadriceps"],
+    "musclesSecondary": ["Fessiers", "Ischios"],
+    "region": "Bas du corps",
+    "equipment": ["Barbell", "Rack"],
+    "type": "strength",
+    "stability": "free",
+    "imageName": "squat_bar.png",
+    "notes": "Profondeur à la parallèle, dos neutre.",
+    "isCustom": false
+  }
+]
